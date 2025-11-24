@@ -27,7 +27,7 @@ This project is a sales dashboard built in Microsoft Excel. It cleans a transact
 
 ## How to use
 
-1. Download and open final sales.xlsm in Excel.
+1. Download and open EXCEL MINI PROJECT.xlsm in Excel.
 2. If prompted, enable macros.
 3. Go to the Dashboard worksheet and use the slicers to filter by date, product, or region.
 4. To refresh data: Data → Refresh All (or use the 'Refresh' macro button if provided).
