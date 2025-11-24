@@ -1,6 +1,6 @@
 # Sales Dashboard — Excel Project
 
-Project: Sales Dashboard (Excel)
+Project: EXCEL SALES DASHBOARD
 File: EXCEL MINI PROJECT.xlsm
 
 ## Overview
@@ -17,7 +17,7 @@ This project is a sales dashboard built in Microsoft Excel. It cleans a transact
 
 ## Files in this repository
 
-* final sales.xlsm — Main Excel workbook (macro-enabled).
+* EXCEL FINAL PROJECT.xlsm — Main Excel workbook (macro-enabled).
 * README.md — This file.
   
 ## System requirements
