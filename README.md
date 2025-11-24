@@ -1,7 +1,7 @@
 # Sales Dashboard — Excel Project
 
 Project: Sales Dashboard (Excel)
-File: final sales.xlsm
+File: EXCEL MINI PROJECT.xlsm
 
 ## Overview
 
